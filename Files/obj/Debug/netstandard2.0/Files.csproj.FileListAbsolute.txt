@@ -1,0 +1,10 @@
+C:\Users\dicosolalu\Desktop\EcoTraveller\Files\bin\Debug\netstandard2.0\Files.deps.json
+C:\Users\dicosolalu\Desktop\EcoTraveller\Files\bin\Debug\netstandard2.0\Files.dll
+C:\Users\dicosolalu\Desktop\EcoTraveller\Files\bin\Debug\netstandard2.0\Files.pdb
+C:\Users\dicosolalu\Desktop\EcoTraveller\Files\obj\Debug\netstandard2.0\Files.Ressources.resources
+C:\Users\dicosolalu\Desktop\EcoTraveller\Files\obj\Debug\netstandard2.0\Files.csproj.GenerateResource.cache
+C:\Users\dicosolalu\Desktop\EcoTraveller\Files\obj\Debug\netstandard2.0\Files.AssemblyInfoInputs.cache
+C:\Users\dicosolalu\Desktop\EcoTraveller\Files\obj\Debug\netstandard2.0\Files.AssemblyInfo.cs
+C:\Users\dicosolalu\Desktop\EcoTraveller\Files\obj\Debug\netstandard2.0\Files.csproj.CoreCompileInputs.cache
+C:\Users\dicosolalu\Desktop\EcoTraveller\Files\obj\Debug\netstandard2.0\Files.dll
+C:\Users\dicosolalu\Desktop\EcoTraveller\Files\obj\Debug\netstandard2.0\Files.pdb

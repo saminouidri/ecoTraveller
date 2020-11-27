@@ -4,6 +4,8 @@
              xmlns:local="clr-namespace:EcoTraveller"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <Style x:Key="lblFont" TargetType="{x:Type Control}">
+            <Setter Property="FontFamily" Value="Fonts/Boldness.otf #Boldness"/>
+        </Style>
     </Application.Resources>
 </Application>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fmF0lHyw/yHQP+Ee+XmiFNQlOc+IdZ1j5PyNJqYgph50ugbsQpubhMBGkSV04tamSvzCeJ6Y3BnbLqjw1Qz9XA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dicosolalu\\Desktop\\EcoTraveller\\Files\\Files.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dicosolalu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dicosolalu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
